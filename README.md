@@ -11,8 +11,8 @@ Nous appelons "produit" les différents types de billets que l'on peut acheter d
 
 # Commencons
 
-Après avoir cloner le repository, regardons la strucure du projet.
-Nous avons déjà créer le modèle de données ainsi que des données de test pour s'affranchir d'une couche réseau
+Après avoir cloné le repository, regardons la structure du projet.
+Nous avons déjà créé le modèle de données ainsi que des données de test pour s'affranchir d'une couche réseau
 
 # La liste des offres
 
